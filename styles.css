@@ -395,11 +395,11 @@ margin-top: 100px;
 
 /* ---------------blog-content------------------------------------------- */
 
-#blog{
+/* #blog{
     display: flex;
     justify-content: center;
 
-}
+} */
 .blog-content{
     width: 80%;
     margin:auto ;
